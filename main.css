@@ -45,7 +45,7 @@ nav {
     color: #00adb5;
 }
 header {
-background-image:url(../image/WhatsApp\ Image\ 2026-09-29\ at\ 2.44.46\ AM.jpeg);
+background-image:url('./me.png');
 background-size: cover;
 background-position: center;
 background-color: #0b0b0b;
